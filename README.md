@@ -22,6 +22,7 @@ then we design the FSM to implement the multiplication algorithm using the data 
 
 
 
+The overall design architecture is given below for our purpose
 
 ![image](https://github.com/akshayrajMR95/Datapath_controller_design/assets/101858111/69190261-808b-4c93-8c0c-4c1e571ad256)
 
@@ -42,6 +43,8 @@ then we design the FSM to implement the multiplication algorithm using the data 
 
 
 
+For desining a controll path the overall design is divided into different stages and the stages are assigned to different states and 
+the state digram is designed accordingly.
 
 ![image](https://github.com/akshayrajMR95/Datapath_controller_design/assets/101858111/1a4afeff-c9ac-4db1-bbc3-da13f4d3543e)
 
