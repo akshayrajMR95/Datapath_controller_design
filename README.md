@@ -18,11 +18,27 @@ then we design the FSM to implement the multiplication algorithm using the data 
 
 
 
+
+
+
+
+
 ![image](https://github.com/akshayrajMR95/Datapath_controller_design/assets/101858111/69190261-808b-4c93-8c0c-4c1e571ad256)
 
 
 
+
+
+
+
+
+
 ![image](https://github.com/akshayrajMR95/Datapath_controller_design/assets/101858111/1ff2853d-dd45-45e9-93d1-f452c76d9a7d)
+
+
+
+
+
 
 
 
