@@ -1,6 +1,7 @@
 # Datapath_controller_design
 The hardware way of thinking while designing (in verilog) a complex digital circuit
-In a complex digital system, the hardware is typically partitioned into two parts:
+In a complex digital system, 
+The hardware is typically partitioned into two parts:
 a) Data Path, which consist of the functional units where all computations 
 are carried out.
 Typically consist of registers, multiplexers, bus, adders, multipliers, counters, and other functional blocks.
